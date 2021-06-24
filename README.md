@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiBak
-- 👀 I’m interested in game development and mobile application development
+- 👀 I’m interested in game development, mobile application development, and machine learning
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
