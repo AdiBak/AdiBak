@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **making cool products!**
 
-- 👨‍💻 All of my projects are available at [adibak.github.io](adibak.github.io)
+- 👨‍💻 All of my projects are available at [adibak.github.io](https://adibak.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
