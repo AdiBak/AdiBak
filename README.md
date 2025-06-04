@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AdiBak</h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">CS Student at UC Irvine, interested in AI/ML, web dev, game dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adibak&label=Profile%20views&color=0e75b6&style=flat" alt="adibak" /> </p>
