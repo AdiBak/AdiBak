@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adibak&label=Profile%20views&color=0e75b6&style=flat" alt="adibak" /> </p>
 
-- 👯 I love making cool products**!
+- I love making cool products**!
 
-- 👨‍💻 My portfolio is available at [adibak.github.io](https://adibak.github.io)
+- My portfolio is available at [adibak.github.io](https://adibak.github.io)
 
 <p align="left">
 </p>
