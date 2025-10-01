@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">CS Student at UC Irvine, interested in AI/ML, web dev, game dev</h3>
+<h3 align="center">CS at UC Irvine | AI/ML, web dev, game dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adibak&label=Profile%20views&color=0e75b6&style=flat" alt="adibak" /> </p>
 
-- 🔭 I’m currently working on **a gesture-controlled F1 simulator**
-
-- 🌱 I’m currently learning **react, typescript, tensorflow, mongodb, automata theory**
-
-- 👯 I’m looking to collaborate on **making cool products!**
+- 👯 I love making cool products**!
 
 - 👨‍💻 My portfolio is available at [adibak.github.io](https://adibak.github.io)
 
