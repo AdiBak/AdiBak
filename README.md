@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">UC Irvine CS Alum/h3>
+<h3 align="center">UC Irvine CS Alum
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adibak&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
